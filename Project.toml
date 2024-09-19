@@ -1,0 +1,12 @@
+name = "HW02_4451"
+uuid = "8070c838-007e-4a77-ad9e-5e696aab38b7"
+authors = ["kjl-macbook <keith.ja.lee@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Asap = "763a8c06-ba23-41fc-b385-b3b57b52403a"
+GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
