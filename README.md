@@ -1,4 +1,4 @@
-![](anim.gif)
+![](readme_figures/anim.gif)
 # 1.575J/4.450J/4.451 Homework 02 // Michell Truss
 This problem asks you to consider the classical Michell truss in a parameterized, numerical context. Based on Lecture 02 and Lecture 03 slides, Lab 01 slides, and the Mazurek et al. 2011 reading, you will implement a method for generating, analyzing, and optimizing cantilever truss structures subject to a point load at the tip.
 
@@ -13,4 +13,12 @@ Download and install [Visual Studio Code](https://code.visualstudio.com/).
 
 ## Install the Julia language extension
 On the "Extensions" section of your sidebar, find the julia extension and install it.
-![](julia-ext.png)
+![](readme_figures/julia-ext.png)
+
+## Clone/download this repository
+Either clone this repository using git, or simply download all the contents as a .zip file
+![](readme_figures/download-repo.png)
+
+Extract the contents of the .zip file to somewhere on your computer.
+
+## Open the folder in VS Code
