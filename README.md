@@ -61,3 +61,7 @@ Click anywhere on the first line and press `shift+enter`. This will run what is 
 ![](readme_figures/scripts.gif)
 
 Try running `truss_example.jl`
+
+# For your homework
+The rest of this is up to you! I've made a `problem1.jl` file for you start playing around.
+You can define new functions here and use them later, or you can take a look at how `src/` is structured to make your own functions that are part of the overall `HW02_4451` package environment, and export it so you can keep your code a bit more organized!
